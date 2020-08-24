@@ -16,3 +16,7 @@ Copare two Excel files using openpyxl
     wb1.close()
     wb2.close()
 ```
+
+## License
+  
+MIT
