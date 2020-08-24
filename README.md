@@ -1,6 +1,6 @@
 # compxl
   
-Copare two Excel files using openpyxl
+Compare two Excel files using openpyxl
   
 ## Useage
   
